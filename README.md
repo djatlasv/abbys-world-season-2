@@ -2,7 +2,7 @@
 
 This guide walks you through installing **Abby's World – Season 2** using your preferred method.  
 Choose **one** of the options below and follow the steps carefully.
-
+HEADS UP! DO NOT ENABLE OR UPDATE ANY OF THESE MODS UNLESS I UPDATE THE MODPACK!!
 ---
 
 ## Modrinth Installation
@@ -79,3 +79,4 @@ If you run into issues:
 - Reach out in the server or issue tracker
 
 Happy playing!
+
